@@ -1,3 +1,7 @@
 Hola mundo
 Adios mundo
+<<<<<<< HEAD
 mundo regresa a casa
+=======
+qwer
+>>>>>>> 751da870ff7cb6bd761b5d6f6eca0d3ae444f921
